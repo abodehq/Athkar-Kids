@@ -1,3 +1,7 @@
+You can use it free for Islamic Apps Only >>> ( FREE APPS ONLY)
+
+يمكنكم استخدام جميع الملفات في البرامج الاسلامية المجانية فقط !!
+
 برنامج أذكار الطفل المسلم
 
 (Android Version)
