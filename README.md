@@ -10,6 +10,7 @@ DEMO : https://play.google.com/store/apps/details?id=com.isslam.husonkids
 
 Features:
 Floating Action Buttons & Menu
+<br/>
 Android Animations
 Pagers And pager Fragments
 Color Filter ( Hue ) 
