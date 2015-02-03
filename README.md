@@ -1,2 +1,8 @@
-# -
-https://play.google.com/store/apps/details?id=com.isslam.husonkids
+برنامج أذكار الطفل المسلم
+
+(Android Version)
+
+DEMO : https://play.google.com/store/apps/details?id=com.isslam.husonkids
+
+تطبيق أذكار الطفل المسلم يمكن طفلك حفظ العديد من أذكار حصن المسلم المنتقاة و بشكل ممتع !! كما يمكنه الاستماع الى الاذكار في حالة عدم تمكنه من القراء بصوت شاب و فتاة ...
+
