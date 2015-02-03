@@ -1,0 +1,148 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img_bg_6" >
+   
+    <ImageView
+        android:id="@+id/bg_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:scaleType="center"
+        android:src="@drawable/bg_content"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/img_header_bg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:scaleType="center"
+        android:src="@drawable/bg" />
+
+        
+
+ <ScrollView
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_alignBottom="@+id/bg_content"
+     android:layout_alignLeft="@+id/bg_content"
+     android:layout_alignRight="@+id/bg_content"
+     android:layout_alignTop="@+id/bg_content"
+      >
+
+    <TextView
+        android:id="@+id/txt_theker"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="( الحمد لله الذي أحيانا بعد ما أماتنا ، وإليه النشور )"
+        android:textColor="@android:color/black"
+        android:textSize="26sp"
+        android:textStyle="bold" />
+
+    </ScrollView>
+
+
+	 <com.isslam.husonkids.FloatingActionsMenu
+        android:id="@+id/multiple_actions"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+      
+        fab:fab_addButtonColorNormal="@color/red"
+        fab:fab_addButtonColorPressed="@color/red_pressed"
+       
+        android:layout_marginBottom="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginEnd="16dp">
+
+          <com.isslam.husonkids.FloatingActionButton
+       
+        android:id="@+id/btn_boy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        fab:fab_icon="@drawable/boy"
+        fab:fab_colorNormal="@color/blue"
+        fab:fab_colorPressed="@color/blue_pressed"
+       />
+
+            <com.isslam.husonkids.FloatingActionButton
+       
+        android:id="@+id/btn_girl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        fab:fab_icon="@drawable/girl"
+        fab:fab_colorNormal="@color/pink"
+        fab:fab_colorPressed="@color/pink_pressed"
+       />
+        
+        
+        <com.isslam.husonkids.FloatingActionButton
+       
+        android:id="@+id/btn_mute"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        fab:fab_icon="@drawable/mute"
+        fab:fab_colorNormal="@color/orange"
+        fab:fab_colorPressed="@color/orange_pressed"
+       />
+
+    </com.isslam.husonkids.FloatingActionsMenu>
+ 
+ <com.isslam.husonkids.FloatingActionButton
+       
+        android:id="@+id/btn_home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        fab:fab_icon="@drawable/ic_home"
+        fab:fab_colorNormal="@color/orange"
+        fab:fab_colorPressed="@color/orange_pressed"
+          android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+       
+             android:layout_marginTop="16dp"
+        android:layout_marginLeft="16dp"
+        
+       />
+
+ <com.isslam.husonkids.FloatingActionButton
+       
+        android:id="@+id/btn_repeat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        fab:fab_icon="@drawable/ic_action_repeat"
+        fab:fab_colorNormal="@color/green"
+        fab:fab_colorPressed="@color/green_pressed"
+          android:layout_alignParentBottom="true"
+       
+         android:layout_centerHorizontal="true"
+             android:layout_marginBottom="16dp"
+      
+        
+       />
+ 
+  <com.isslam.husonkids.FloatingActionButton
+       
+        android:id="@+id/btn_share"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+          fab:fab_icon="@drawable/ic_action_share"
+        fab:fab_colorNormal="@color/mag"
+        fab:fab_colorPressed="@color/mag_pressed"
+          android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+      
+             android:layout_marginBottom="16dp"
+        android:layout_marginLeft="16dp"
+        
+       />
+   
+</RelativeLayout>
