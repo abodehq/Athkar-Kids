@@ -11,14 +11,14 @@ DEMO : https://play.google.com/store/apps/details?id=com.isslam.husonkids
 Features:
 Floating Action Buttons & Menu
 <br/>
-Android Animations
-Pagers And pager Fragments
-Color Filter ( Hue ) 
-Share Preferences
-Splash Screen
-Media Manager: MediaPlayer for playing sounds
-Sounds for a boy and a girl
-Graphics for all devices.
+Android Animations<br/>
+Pagers And pager Fragments<br/>
+Color Filter ( Hue ) <br/>
+Share Preferences<br/>
+Splash Screen<br/>
+Media Manager: MediaPlayer for playing sounds<br/>
+Sounds for a boy and a girl<br/>
+Graphics for all devices.<br/>
 ----------------------------------
 
 تطبيق أذكار الطفل المسلم يمكن طفلك حفظ العديد من أذكار حصن المسلم المنتقاة و بشكل ممتع !! كما يمكنه الاستماع الى الاذكار في حالة عدم تمكنه من القراء بصوت شاب و فتاة ...
