@@ -1,4 +1,4 @@
-You can use it free for Islamic Apps Only >>> ( FREE APPS ONLY)
+You can use it free for Islamic Apps Only >>> ( FREE ISLAMIC APPS ONLY)
 
 يمكنكم استخدام جميع الملفات في البرامج الاسلامية المجانية فقط !!
 
